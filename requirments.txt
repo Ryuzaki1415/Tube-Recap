@@ -1,0 +1,4 @@
+Flask
+transformers
+youtube-transcript-api
+pytorch
